@@ -12,6 +12,6 @@
 - IDA*
 
 ## Supervised learning
-[supervised learning.pdf](supervised-learning/1.Seminarska naloga_UI.pdf)
+[supervised_learning.pdf](supervised-learning/1.Seminarska naloga_UI.pdf)
 ### 1. Calssification
 ### 2. Regresion
