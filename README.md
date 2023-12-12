@@ -1,7 +1,7 @@
 # Artificial Intelligence
 
 ## Search algorithms
-[search_algorithms.pdf](search-algorithms/Seminarska_naloga_UIv2.pdf)
+[search_algorithms.pdf](search-algorithms/Seminarska_naloga_UI%20v2.pdf)
 ### 1. Uninformed serach
 - DFS
 - BFS
