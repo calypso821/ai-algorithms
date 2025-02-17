@@ -1,0 +1,2 @@
+drevo<-read.csv("D:\\OneDrive - Univerza v Ljubljani\\FRI\\OVS\\Projektna_naloga\\projekt\\podatki\\klek.csv", header=TRUE)
+drevo[,c(1)] <- log2(drevo[,c(1)])
